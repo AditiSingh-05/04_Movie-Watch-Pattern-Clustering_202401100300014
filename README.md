@@ -33,8 +33,9 @@ Reads movie data from a CSV file containing:
 ### **4. Visualization**
 - Displays a **pie chart** showing the distribution of users across clusters.
 - Helps understand behavior patterns visually.
+- ![image](https://github.com/user-attachments/assets/3bdd29c6-101c-4c25-a7c6-e6b3092caddb)
 
----
+
 
 ## **_Purpose_**
 This clustering helps identify trends in user habits and can be used to **enhance recommendation systems** or **personalize content delivery**.
